@@ -20,6 +20,7 @@ int main()
 	
 	
 	cout<<"welcome to arr world"<<endl;
+	cout<<"welcome to arr world again"<<endl;
 	arr[0]=1;
 	
 	arr[1]=11;
