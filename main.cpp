@@ -12,6 +12,16 @@ void sorting2()
 	//
 
 }
+void sorting3()
+{
+	//
+
+}
+void sorting4()
+{
+	//
+
+}
 
 // >>>>>>> sorting2
 int main()
